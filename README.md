@@ -9,12 +9,11 @@
 - yii seeder
 
 Для взаимодействия с api рекомендуется используется postman:
-- на вкладке Headers добавить ключи:
-      X-Api-Key: secret
-      X-Role: main - для post/put/delete запросов
-
-
-  Эндпоинты:
-  http://localhost:8000/api/requests - управление заявками
-  http://localhost:8000/api/vehicles — управление транспортом
-  http://localhost:8000/api/couriers — управление курьерами
+- на вкладке Headers добавить ключи: <br>
+      X-Api-Key: secret <br>
+      X-Role: main - для post/put/delete запросов <br>
+<br> <br>
+  Эндпоинты: <br>
+  http://localhost:8000/api/requests - управление заявками <br>
+  http://localhost:8000/api/vehicles — управление транспортом <br>
+  http://localhost:8000/api/couriers — управление курьерами <br>
